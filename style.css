@@ -1,0 +1,84 @@
+.registerBtn{
+    background-color: #4CAF4F;
+    border: 1px solid #4CAF4F;
+    height: 49.49px;
+    width: 148.25px;
+    color: #fff;
+    border-radius: 2.78px;
+}
+.registerBtn:hover{
+    background-color: #4CAF4F !important;
+    color: #fff;
+}
+.navbar-nav{
+    gap: 20.71px;
+}
+.headerColor{
+    background-color: #F5F7FA;
+}
+.colorDark{
+    color: #4D4D4D;
+}
+.lesson{
+    font-size: 44.55px;
+}
+.colorgreen{
+    color: #4CAF4F;
+}
+.heroRow{
+    height: 416.95px;
+}
+
+.service{
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
+}
+
+.colorDarkbg{
+    background-color: #263238;
+}
+
+.fimg{
+    background-color: #333638b2;
+    padding: 8px;
+}
+
+.foot2 ul{
+   list-style: none;
+}
+.foot2 li{
+    margin-top: 7px;
+}
+
+.foot4 input{
+    background-color: #4D4D4D;
+    border: none;
+    padding: 5px;
+   
+}
+.foot4 img{
+    position: relative;
+    right: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px){
+    .navbar-nav li{
+        text-align: center;
+    }
+}
